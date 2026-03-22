@@ -90,6 +90,7 @@ npm run dev
 ## 🏆 Why this wins
 This isn't just a wrapper around ChatGPT. By using a **Multi-Agent workflow**, we ensure that a user asking about Section 80C deductions gets answered by an AI explicitly prompted and fine-tuned for Indian Taxation (CA Agent), while someone asking about retirement gets the Finance Agent. **It's scalable, modular, and directly solves the accessibility issue of HNI-only financial advisory.**
 
+Just changed the name of the project from AI Money Mentor to Smart Financial Automation Engine
 ---
 *Built with ❤️ by Vansh Ghanchi for Hackathon 2026  
 Focused on AI-powered financial automation for real-world impact.*
